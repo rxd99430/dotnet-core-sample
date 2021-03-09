@@ -1,7 +1,7 @@
 # Build ASP.NET Core project using Azure Pipelines
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=vsts
 
-pool: 'default'
+pool: 'Azure Pipelines'
   
 variables:
   buildConfiguration: 'Release'
